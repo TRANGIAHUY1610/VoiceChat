@@ -1,0 +1,41 @@
+[
+  {
+    "timestamp": "2026-01-24T21:26:26.193885",
+    "room_id": "room_1769264532_0",
+    "participants": [
+      "Huy1"
+    ],
+    "duration_seconds": 240.711661,
+    "duration_formatted": "4m 0s"
+  },
+  {
+    "timestamp": "2026-01-24T21:31:47.255474",
+    "room_id": "room_1769265034_1",
+    "participants": [
+      "Trung1",
+      "Huy1"
+    ],
+    "duration_seconds": 57.812333,
+    "duration_formatted": "57s"
+  },
+  {
+    "timestamp": "2026-01-24T21:31:49.191850",
+    "room_id": "room_1769265034_1",
+    "participants": [
+      "Trung1",
+      "Huy1"
+    ],
+    "duration_seconds": 1.701696,
+    "duration_formatted": "1s"
+  },
+  {
+    "timestamp": "2026-01-25T21:04:43.873306",
+    "room_id": "room_1769349772_0",
+    "participants": [
+      "Trung1",
+      "Huy1"
+    ],
+    "duration_seconds": 37.449718,
+    "duration_formatted": "37s"
+  }
+]
