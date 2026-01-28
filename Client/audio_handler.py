@@ -1,4 +1,4 @@
-import pyaudio
+import pyaudio # Thư viện làm việc với thiết bị âm thanh (mic, loa)
 import logging
 import queue
 import base64
